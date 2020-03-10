@@ -1,0 +1,26 @@
+
+
+  * czemu zaimplementowane przeze mnie semanticUI wygląda inaczej niż przykład na stronie: https://semantic-ui.com/examples/login.html
+
+  * jak ustawić href do wyrenderowanego skróconego linku
+      *  href działa, ale kiedy po przekierowaniu na skrócony url cofnę sie na localhost:3000, api zwraca 403 kiedy klikam na przycisk,
+         ale kiedy wkleję ten sam link to leci normalny request -! sprawdzic przesył inputu do state
+            -sprobuje przerobic ResultDisplay.js na class 
+                -nie no to nie pojedzie
+            -sprobuje zrobic tak zeby po cofnięciu ze strony input był pusty  
+
+  * jak wrzucic wygenerowany link do schowka 
+
+  * ogarnąć jak ŁADNIE wyswietlic zewnętrzna strone w <iframe>
+
+  * niektóre strony blokują wyswietlanie w <iframe>
+
+  * ogarnąc jakos ładniej ResultDisplay, np jako slider 
+
+  ?  może ustawić custom slashtag 
+
+  * zaimplementowac routing 
+
+  * wrzicic na heroku i zobaczyc czy link przekierowuje do mojej apki
+
+
